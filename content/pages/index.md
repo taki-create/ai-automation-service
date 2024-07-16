@@ -195,7 +195,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Basic plan
-        price: '100'
+        price: 100€
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
