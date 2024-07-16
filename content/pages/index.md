@@ -195,9 +195,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Basic plan
-        price: >-
-          Free trial month, then €100/month for 6 months. Cancel anytime.
-          Includes chatbot and personalized emails.
+        price: '100'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
