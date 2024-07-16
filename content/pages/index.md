@@ -8,10 +8,28 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      In today’s fast-paced world, staying ahead means working smarter. That’s
+      where BR4ND comes in. We specialize in creating tailored AI automation
+      solutions that streamline operations, reduce costs, and enhance customer
+      experiences.
+
+
+      Why settle for generic solutions? Our dedicated team takes the time to
+      understand your unique challenges, crafting AI strategies that fit
+      seamlessly into your processes. Automate repetitive tasks, gain valuable
+      insights, and focus on what you do best – growing your business.
+
+
+      With BR4ND, you get the personal touch of a small agency and the expertise
+      of a larger firm. Let’s work together to transform your business and give
+      you a competitive edge.
+
+
+      Choose BR4ND to harness the power of AI and watch your business thrive.
+
+
+
     actions:
       - label: Get started
         altText: ''
