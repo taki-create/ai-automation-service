@@ -194,7 +194,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Basic plan
+        title: Basic membership plan
         price: 100€ Monthly+ free trial month
         details: ''
         description: |
