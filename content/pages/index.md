@@ -202,7 +202,7 @@ sections:
         features:
           - chatbot
           - personalized emails.
-          - Feature two
+          - ''
           - Feature three
           - Feature four
         image:
