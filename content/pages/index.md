@@ -103,7 +103,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/pngtree-vector-letter-icon-png-image_925965.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
