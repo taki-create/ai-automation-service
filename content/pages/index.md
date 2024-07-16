@@ -196,7 +196,7 @@ sections:
       - type: PricingPlan
         title: Basic plan
         price: 100€ Monthly
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
