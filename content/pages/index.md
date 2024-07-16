@@ -198,7 +198,7 @@ sections:
         price: 100€ Monthly+ free trial month
         details: ''
         description: |
-          Free trial month, then €100/month for 6 months. Cancel anytime
+          Free trial month, then €85/month for 12 months. Cancel anytime
         features:
           - chatbot
           - personalized emails.
