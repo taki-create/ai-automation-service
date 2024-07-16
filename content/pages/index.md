@@ -78,11 +78,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Make your emails resonate with a personal touch. Our custom email service
+      helps you create campaigns that feel uniquely tailored to each recipient.
+      By understanding their behavior, preferences, and demographics, we ensure
+      your messages are relevant and engaging, driving higher engagement and
+      conversion rates.
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
