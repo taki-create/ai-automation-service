@@ -200,7 +200,7 @@ sections:
         description: |
           Free trial month, then €100/month for 6 months. Cancel anytime
         features:
-          - Feature one
+          - '*chatbot'
           - ''
           - Feature two
           - Feature three
