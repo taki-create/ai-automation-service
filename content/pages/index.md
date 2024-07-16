@@ -195,7 +195,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Basic membership plan
-        price: 100€ Monthly+ free trial month
+        price: 85€ Monthly+ free trial month
         details: ''
         description: |
           Free trial month, then €85/month for 12 months. Cancel anytime
