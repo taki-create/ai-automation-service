@@ -201,7 +201,7 @@ sections:
           Free trial month, then €100/month for 6 months. Cancel anytime
         features:
           - '*chatbot'
-          - ''
+          - personalized emails.
           - Feature two
           - Feature three
           - Feature four
