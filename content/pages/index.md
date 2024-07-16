@@ -197,10 +197,8 @@ sections:
         title: Basic plan
         price: 100€ Monthly
         details: ''
-        description: >+
-          Free trial month, then €100/month for 6 months. Cancel anytime.
-          Includes chatbot and personalized emails.
-
+        description: |
+          Free trial month, then €100/month for 6 months. Cancel anytime
         features:
           - Feature one
           - Feature two
