@@ -330,9 +330,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      Get personalized advice and actionable insights to transform your
+      business. Book now!
+
     actions:
       - label: Get started for free now
         url: /
