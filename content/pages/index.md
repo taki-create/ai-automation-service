@@ -142,7 +142,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: AI-Pow
+      text: AI-Powered Chatbots
       color: text-dark
       styles:
         self:
