@@ -195,7 +195,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Basic plan
-        price: 100€ Monthly
+        price: 100€ Monthly with free tr
         details: ''
         description: |
           Free trial month, then €100/month for 6 months. Cancel anytime
