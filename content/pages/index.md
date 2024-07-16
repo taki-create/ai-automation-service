@@ -149,11 +149,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Make your emails stand out with a personal touch. Our custom email service
+      tailors each campaign to your recipients' behavior, preferences, and
+      demographics. By sending relevant and engaging messages, you'll see higher
+      engagement and conversion rates. Reach your audience with the right
+      message at the right time.
+
     actions: []
     media:
       title: Title of the video
