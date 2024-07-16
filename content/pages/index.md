@@ -202,7 +202,6 @@ sections:
         features:
           - chatbot
           - personalized emails.
-          - ''
           - Feature three
           - Feature four
         image:
