@@ -109,6 +109,37 @@ sections:
       styles:
         self:
           borderRadius: medium
+  - title:
+      text: Business Consulting
+      color: text-dark
+      type: TitleBlock
+    subtitle: Be in good company
+    text: >+
+
+      Get personalized advice and actionable insights to transform your
+      business. Book now!
+
+    actions:
+      - label: Get started for free now
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -152,37 +183,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >+
-
-      Get personalized advice and actionable insights to transform your
-      business. Book now!
-
-    actions:
-      - label: Get started for free now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
