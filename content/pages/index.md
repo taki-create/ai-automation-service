@@ -232,7 +232,7 @@ sections:
           streamlines communication. Boost your website’s efficiency and user
           experience today!
         features:
-          - Feature one
+          - Ai powered chatbot
           - Feature two
           - Feature three
           - Feature four
