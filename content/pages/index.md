@@ -233,7 +233,6 @@ sections:
           experience today!
         features:
           - Ai powered chatbot
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
