@@ -224,7 +224,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Fixed price
-        price: 400€
+        price: 500€
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
