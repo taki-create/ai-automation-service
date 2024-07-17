@@ -234,7 +234,6 @@ sections:
           - Ai powered chatbot
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
           altText: Pricing plan 2
         actions:
           - type: Button
