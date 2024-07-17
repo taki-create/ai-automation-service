@@ -226,9 +226,11 @@ sections:
         title: Fixed price
         price: 500€
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Unlock the power of AI with our chatbot service! For €500, you’ll get
+          an intelligent chatbot that engages customers, answers queries, and
+          streamlines communication. Boost your website’s efficiency and user
+          experience today!
         features:
           - Feature one
           - Feature two
