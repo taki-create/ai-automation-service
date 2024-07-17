@@ -233,7 +233,6 @@ sections:
           experience today!
         features:
           - Ai powered chatbot
-          - Feature two
           - Feature three
           - Feature four
         image:
