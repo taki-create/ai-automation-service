@@ -224,7 +224,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: '400'
+        price: 400€
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
