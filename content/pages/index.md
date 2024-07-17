@@ -225,7 +225,7 @@ sections:
       - type: PricingPlan
         title: Fixed price
         price: 400€
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
